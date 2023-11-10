@@ -1,0 +1,1 @@
+I am following "The Odin Project" curriculum on Git
